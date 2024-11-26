@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img-retro {
+    width: 5.5rem;
+    height: 6rem;
+}
+
+.hamburger {
+    right: 0.7rem;
+    top: 0.3rem;
+}
